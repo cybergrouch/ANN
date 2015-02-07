@@ -1,0 +1,3 @@
+[submodule "JavaIntroNeuralNetworkEdition2-Gradle"]
+	path = JavaIntroNeuralNetworkEdition2-Gradle
+	url = git@github.com:cybergrouch/JavaIntroNeuralNetworkEdition2-Gradle.git

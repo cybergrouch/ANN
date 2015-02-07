@@ -1,2 +1,5 @@
 rootProject.name = 'ANN'
 
+include 'JavaIntroNeuralNetworkEdition2-Gradle'
+include 'hopfieldnetwork'
+
